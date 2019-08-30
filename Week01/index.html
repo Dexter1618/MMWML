@@ -1,0 +1,85 @@
+<html>
+  <head>
+    <!-- Load the latest version of TensorFlow.js -->
+    <script src="https://unpkg.com/@tensorflow/tfjs"></script>
+    <script src="https://unpkg.com/@tensorflow-models/mobilenet@2.0.2"></script>
+    <script src="https://unpkg.com/@tensorflow-models/knn-classifier"></script>
+    <!-- Load the latest version of Bootstrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </head>
+  <body class="pt-5">
+
+    <!-- Add an image that we will use to test -->
+
+    <nav class="navbar navbar-dark bg-success fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="./index.html">
+          <img src="./static/01.png" width="50" height="35" class="d-inline-block align-center" alt="">
+                   Siraj Raval | MMWML | Week 01 Homework Assignment
+        </a>
+      </div>
+    </nav>
+
+    <br>
+
+
+    <div class="container">
+      <div class="jumbotron">
+        <h2>Tensorflow.js Image Classifier</h2>
+        <p>
+          </p><li> This is a basic template layout of a deployable implementation of a pretrained neural network as a web application. </li>
+          <li> The pretrained model used here is the <strong><i>keras.applications.mobilenet.</i></strong> </li>
+          <li>This model is lightweight and can be trained and used to infer labels for new images on the browser itself without any external support.</li> 
+        <p></p>
+      </div>
+    </div>
+
+
+    <div class="container">
+      <div class="card-deck">
+        <div class="card bg-primary">
+          <div class="card-body text-center">
+            <p class="card-text text-white display-4" style="font-size:4vw;">Input</p>
+            <video autoplay="" playsinline="" muted="" id="webcam" width="224" height="224" class="embed-responsive"></video>
+          </div>
+        </div>
+        <div class="card bg-warning">
+          <div class="card-body text-center">
+            <p class="card-text text-white display-4" style="font-size:4vw;">Training</p>
+            <p><button id="class-a" class="btn btn-secondary btn-lg">Add A</button></p>
+            <p><button id="class-b" class="btn btn-secondary btn-lg">Add B</button></p>
+            <p><button id="class-c" class="btn btn-secondary btn-lg">Add C</button></p>
+            <p><button id="noaction" class="btn btn-secondary btn-lg">No Action</button></p>
+          </div>
+        </div>
+        <div class="card bg-success">
+          <div class="card-body text-center">
+            <p class="card-text text-white display-4" style="font-size:4vw;">Output</p>
+            <div id="console" class="text-white"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+
+    <div class="container">
+      <div class="jumbotron">
+        <h3>How to use</h3>
+        <ul>
+          <li>Allow browser access to your webcam.</li>
+          <li>Click on the related class at <strong>Training</strong> section while you are showing it to the webcam</li>
+          <li>Click atleast 30 pictures for each class</li>
+          <li>After the training you can show one of 4 classes to the webcam and you can see prediction and probability at the <strong>Output</strong> section.</li>
+        </ul>
+
+    <br>
+
+    <!-- Load index.js after the content of the page -->
+    <script src="./static/js/index.js"></script>
+  
+
+</div></div></body></html>
