@@ -10,7 +10,7 @@ This is a custom image classifier which is powered by **Tensorflow.js** . You ca
 
 **Note:** Minimum **30 images** per class will increase the accuracy.
 
-![Screenshot](./display.png)
+![Screenshot](./display.PNG)
 
 
 ### References for help
