@@ -1,9 +1,3 @@
----
-
-Copyright to Debayan Das
-
----
-
 ## tensorflowjs-image-classifier
 
 This is a custom image classifier which is powered by **Tensorflow.js** . You can train your classifier (4 classes) on the fly in the browser. This application is using pre-trained model for image classification called **MobileNet**. Your model will be trained on top of this one to customize the image classes it recognizes. So you can create highly accurate model with minimal training data.
@@ -16,4 +10,9 @@ This is a custom image classifier which is powered by **Tensorflow.js** . You ca
 
 **Note:** Minimum **30 images** per class will increase the accuracy.
 
-![Screenshot](display.png)
+![Screenshot](./display.png)
+
+
+### References for help
+- [Eray Onler](https://bit.ly/2PlsE1n) (Another fellow student of MMWML)
+- [TensorflowJS Official DIY Projects](https://github.com/tensorflow/tfjs-examples)
