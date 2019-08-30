@@ -12,7 +12,7 @@ This is a DNN-based image classifier which is powered by **Tensorflow.js** . You
 
 ## How the webpage design looks
 
-<img src = "./display.PNG" width = "450" height = "475">
+<img src = "./display.PNG" width = "475" height = "450">
 
 
 ## References for help
