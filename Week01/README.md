@@ -17,7 +17,7 @@ This is a DNN-based image classifier which is powered by **Tensorflow.js** . You
 
 ## References for help
 - [Eray Onler](https://bit.ly/2PlsE1n) (Another fellow student of MMWML)
-- [TensorflowJS Official DIY Projects](https://github.com/tensorflow/tfjs-examples)
+- [See folder "References"](https://github.com/Dexter1618/MMWML/tree/master/Week01/References)
 
 ## Additional remarks
 
