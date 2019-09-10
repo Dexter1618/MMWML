@@ -18,3 +18,4 @@ Vesta Corporation provided the dataset for this competition. Vesta Corporation i
 
 - [Kaggle Challenge Overview](https://www.kaggle.com/c/ieee-fraud-detection/overview)
 - [Dataset Codebase](https://www.kaggle.com/c/ieee-fraud-detection/discussion/101203)
+- [Codebase summarized](https://github.com/Dexter1618/MMWML/blob/master/Week03/Codebase.md)

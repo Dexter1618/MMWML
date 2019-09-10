@@ -1,5 +1,7 @@
 ## Dataset Codebase
 
+( _See [README](https://github.com/Dexter1618/MMWML/blob/master/Week03/README.md) for an overview of the dataset and the problem statement_ )
+
 ---
 
 Transaction Table
