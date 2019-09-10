@@ -3,6 +3,14 @@
 - aim was to train a baseline Linear Model on the dataset
 - secondary aim was to perform EDA and produce necessary visualizations
 
+## Dataset Download
+
+( _Archive hosted on Google Drive_ )
+
+- [for Browser](https://drive.google.com/open?id=1hVoEdzB1ZOBZZhLA5FTvWC6pwy6orv6E)
+- File ID = `1hVoEdzB1ZOBZZhLA5FTvWC6pwy6orv6E`
+- [`wget`/`urllib`-friendly](https://drive.google.com/uc?export=download&id=1hVoEdzB1ZOBZZhLA5FTvWC6pwy6orv6E)
+
 
 ## Background of the dataset source
 
