@@ -22,6 +22,11 @@ If successful, you’ll improve the efficacy of fraudulent transaction alerts fo
 
 Vesta Corporation provided the dataset for this competition. Vesta Corporation is the forerunner in guaranteed e-commerce payment solutions. Founded in 1995, Vesta pioneered the process of fully guaranteed card-not-present (CNP) payment transactions for the telecommunications industry. Since then, Vesta has firmly expanded data science and machine learning capabilities across the globe and solidified its position as the leader in guaranteed ecommerce payments. Today, Vesta guarantees more than $18B in transactions annually.
 
+## My Attempt on Modelling the Dataset
+
+- [Notebook on Github](https://github.com/Dexter1618/MMWML/blob/master/Week03/IEEE_CIS_FraudDetection_lm.ipynb)
+- [Notebook rendered by Jupyter nbviewer](https://nbviewer.jupyter.org/github/Dexter1618/MMWML/blob/master/Week03/IEEE_CIS_FraudDetection_lm.ipynb)
+
 ## References
 
 - [Kaggle Challenge Overview](https://www.kaggle.com/c/ieee-fraud-detection/overview)
