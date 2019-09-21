@@ -5,7 +5,7 @@
 
 ## Test Inference from the custom trained model
 
-![Output]("https://raw.githubusercontent.com/Dexter1618/MMWML/master/Week04/Sample_Test_Run.png")
+![Output](https://raw.githubusercontent.com/Dexter1618/MMWML/master/Week04/Sample_Test_Run.png)
 
 ## Dataset Download
 
