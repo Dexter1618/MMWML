@@ -5,18 +5,12 @@
 
 ## Test Inference from the custom trained model
 
-![]("./Sample_Test_Run.png")
+![]("https://github.com/Dexter1618/MMWML/blob/master/Week04/Sample_Test_Run.png")
 
 ## Dataset Download
 
 - For obtaining the original publication of the dataset, follow the accompanying paper DOI at Mendeley: [link](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 - If you are just require the dataset, you can directly download the 1.2 GB dataset from here: [link](https://data.mendeley.com/datasets/rscbjbr9sj/2/files/41d542e7-7f91-47f6-9ff2-dd8e5a5a7861/ChestXRay2017.zip)
-
-
-## Background of the dataset source
-
-[ _...In this study, we sought to develop an effective transfer learning algorithm to process medical images to provide an accurate and timely diagnosis of key pathology in each image..._ ](https://data.mendeley.com/datasets/rscbjbr9sj/2)
-
 
 ## References
 
