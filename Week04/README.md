@@ -5,7 +5,7 @@
 
 ## Test Inference from the custom trained model
 
-![]("Sample_Test_Run.png?raw=true")
+![]("./Sample_Test_Run.png")
 
 ## Dataset Download
 
