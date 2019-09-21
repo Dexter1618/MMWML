@@ -1,24 +1,11 @@
-## A basic Transfer Learning Application for X-RAY Images using Google's `InceptionV3` Model
+## A basic Transfer Learning Application for using `InceptionV3` Model
 
 - aim was to train a custom model on the `InceptionV3` model for X-RAY Images of patients having pneumonia
 - secondary aim was to evaluate the trained model and provide a few test inferences
 
-## Model Evaluation (`sklearn.metrics.classification_report`)
-
-`
-				   precision    recall  f1-score   support
-
-   PNEUMONIA       0.77      	0.67      0.72       390
-      NORMAL       0.55      	0.67      0.61       234
-
-    accuracy                           	  0.67       624
-   macro avg       0.66      	0.67      0.66       624
-weighted avg       0.69      	0.67      0.68       624
-`
-
 ## Test Inference from the custom trained model
 
-[]("./Sample_Test_Run.png")
+![]("Sample_Test_Run.png?raw=true")
 
 ## Dataset Download
 
