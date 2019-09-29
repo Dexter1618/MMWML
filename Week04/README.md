@@ -12,7 +12,7 @@
 - For obtaining the original publication of the dataset, follow the accompanying paper DOI at Mendeley: [link](https://data.mendeley.com/datasets/rscbjbr9sj/2)
 - If you are just require the dataset, you can directly download the 1.2 GB dataset from here: [link](https://data.mendeley.com/datasets/rscbjbr9sj/2/files/41d542e7-7f91-47f6-9ff2-dd8e5a5a7861/ChestXRay2017.zip)
 
-# My Attempt on creating a custom model on top of `InceptionV3`
+## My Attempt on creating a custom model on top of `InceptionV3`
 
 - [Notebook on Github](https://github.com/Dexter1618/MMWML/blob/master/Week04/Pneumonia_Detection_Transfer_Learning.ipynb)
 - [Notebook rendered by Jupyter nbviewer](https://nbviewer.jupyter.org/github/Dexter1618/MMWML/blob/master/Week04/Pneumonia_Detection_Transfer_Learning.ipynb)
