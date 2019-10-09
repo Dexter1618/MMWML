@@ -9,7 +9,7 @@
 
 ## Notebook
 
-You can find the notebook rendered on Jupyter nbviewer [here](https://nbviewer.jupyter.org/github/Dexter1618/MMWML/blob/master/Week06/GAN_Fashion_MNIST.ipynb).
+You can find the notebook rendered on Jupyter nbviewer [here](https://nbviewer.jupyter.org/github/Dexter1618/MMWML/blob/master/Week06/GAN_FashionMNIST.ipynb).
 
 ## Introducing the Fashion-MNIST
 
