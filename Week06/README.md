@@ -5,7 +5,7 @@
 
 ## Test Inference from the trained DCGAN model after `3000` epochs
 
-![]("./after_3000_epochs.png")
+![](https://github.com/Dexter1618/MMWML/blob/master/Week06/after_3000_epochs.png)
 
 ## Notebook
 
